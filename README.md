@@ -2,6 +2,12 @@
 
 A new Flutter project, calculatrice
 
+## Premier nombre
+![premierNombre](docs/images/first-operand.png)
+
+## Résultat apres une addition avec 20
+![resultat](docs/images/result.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
